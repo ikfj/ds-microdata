@@ -48,13 +48,13 @@ z <- runif(10)	#### assign several values into one object
 	##	==============	##
 	##	2.1  Import text data (NOT used in this class)
 	##	==============	##
-data1<-read.csv("E:/CSI2019/SeminalR1/zensho_kyouikuyodata_2person.txt",header=F)
+data1<-read.csv("zenshoH16enshudata_18.csv",header=F)
 head(data1)
 
 	##	==============	##
 	##	2.2 Import Excel data into R 
 	##	==============	
-##data2<-read.csv("E:/CSI2019/SeminalR1/zenshoH16enshudata_18.csv" ,header=T)
+data2<-read.csv("zenshoH16enshudata_18.csv" ,header=T)
 
 		# rewrite your path 
 		# CAUTION  slash"\" can NOT be used rewrite all \ to / 
