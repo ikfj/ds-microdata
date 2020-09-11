@@ -1,2 +1,5 @@
-# ds-microdata
-Experiment for Rikkyo CSI
+# Rによるミクロデータ分析
+
+セミナー用リポジトリのテスト中
+
+データの無断転載を禁じます
